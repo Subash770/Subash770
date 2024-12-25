@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Subash</h1>
+<h1 align="center" class="typing">Hi 👋, I'm Subash</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subash770&label=Profile%20Views&color=0e75b6&style=flat" alt="subash770" />
+  <img src="https://komarev.com/ghpvc/?username=subash770&label=Profile%20Views&color=0e75b6&style=flat&animate=true" alt="subash770" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 <h3 align="center">Languages & Tools:</h3>
 <p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -83,5 +83,10 @@
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subash770&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subash770&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash770&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
