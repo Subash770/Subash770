@@ -11,7 +11,7 @@
 
 - 🌱 **Currently Learning:** Spring Boot, ReactJS
 
-- 👨‍💻 **All My Projects:** [GitHub Portfolio](https://github.com/Subash770)
+- 👨‍💻 **All My Projects:** [GitHub Portfolio](https://github.com/Subash770) | **Live Links:** [Prixima](https://tiny-centaur-a8249f.netlify.app/)  [Spinner](https://curious-cajeta-2325a9.netlify.app/)
 
 - 📝 **Articles & Contributions:** [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/ssubash2651/contributions/)
 
