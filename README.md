@@ -1,9 +1,14 @@
-<h1 align="center" class="typing">Hi 👋, I'm Subash</h1>
-<h3 align="center">A Passionate Software Developer from India</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subash770&label=Profile%20Views&color=0e75b6&style=flat&animate=true" alt="subash770" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subash"></a>
 </p>
+
+<h3 align="center">A Passionate Software Developer from India</h3>
+<p align="center">
+  <a href="https://github.com/subash-repo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+and+Robust+Applications;Experienced+in+REST+APIs+and+Database+Design;Tech+Enthusiast+%7C+Continuous+Learner!" alt="Typing SVG" />
+  </a>
+</p>
+
 
 ---
 
@@ -18,15 +23,6 @@
 - 📫 **Reach Me At:** ssubash2651@gmail.com
 
 - 📄 **Know About My Experiences:** [LinkedIn Profile](https://www.linkedin.com/in/subash-r-)
-
----
-
-<h3 align="center">Connect With Me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/subash-r-" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:ssubash2651@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://github.com/Subash770" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
-</p>
 
 ---
 
@@ -81,6 +77,15 @@
 
 ---
 
+<h3 align="center">Connect With Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/subash-r-" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:ssubash2651@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://github.com/Subash770" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
+</p>
+
+---
+
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subash770&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
@@ -89,4 +94,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash770&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🌟 GitHub Activity Graph
+<p align="center">
+  <a href="https://github.com/Subash770">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=subash770&bg_color=0d1117&color=f75c7e&line=f75c7e&point=f75c7e&area=true&hide_border=true" alt="Subash's GitHub Activity Graph" />
+  </a>
 </p>
