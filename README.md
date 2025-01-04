@@ -5,7 +5,8 @@
 <h3 align="center">A Passionate Software Developer from India</h3>
 <p align="center">
   <a href="https://github.com/subash-repo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+and+Robust+Applications;Experienced+in+REST+APIs+and+Database+Design;Tech+Enthusiast+%7C+Continuous+Learner!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F75C7E&center=true&vCenter=true&width=700&lines=Front-End+Developer+%7C+ReactJS+%7C+Java;Building+Interactive+and+Dynamic+User+Interfaces;Experienced+in+Java+and+REST+API+Integration;Tech+Enthusiast+%7C+Passionate+about+UI/UX!" alt="Typing SVG" />
+
   </a>
 </p>
 
