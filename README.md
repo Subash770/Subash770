@@ -1,3 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subash770" alt="Subash770" /> </p>
+<p align="center">
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+</p>
+
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subash"></a>
 </p>
@@ -9,6 +14,35 @@
 
   </a>
 </p>
+
+```js
+document.write("Hi Dev`s");
+
+var status = {
+  learning: ["Spring Boot", "ReactJS"],
+  interests: ["Front-End Development", "REST API Integration", "UI/UX Design"]
+};
+
+const skills = {
+  languages: ["JavaScript", "Java", "Python", "C", "HTML5", "CSS3"],
+
+  frameworks: ["ReactJS", "Spring Boot", "Bootstrap"],
+
+  databases: ["MySQL"],
+
+  platforms: ["Netlify", "Vercel"],
+
+  tools: ["Git", "Postman", "Docker", "Figma", "Linux"]
+};
+
+const professionalPhilosophy = {
+  mindset: "Continuous Learning and Improvement",
+  approach: "Collaborative and Open Source Minded",
+  goals: "Building Interactive and Dynamic User Interfaces"
+};
+
+console.log("Professional Philosophy:", professionalPhilosophy);
+```
 
 
 ---
@@ -25,6 +59,14 @@
 
 - 📄 **Know About My Experiences:** [LinkedIn Profile](https://www.linkedin.com/in/subash-r-)
 
+
+### The Nothing!
+
+-  ⚡ Drive: Maybe, we are suppose to break, so through the cracks our flowers can grow
+-  📫 Is there a Gig? Or an urgent deal? Hit me up through my Mail, Twitter or Linkedin
+-  👨🏽‍🍳 Looking to collaborate with other devs whilst exploring opensource
+-  ✨ Why chase, when I'm the catch..
+-  🎍 Curiosity or Creativity!
 ---
 
 <h3 align="center">Languages & Tools:</h3>
