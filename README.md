@@ -47,11 +47,11 @@ console.log("Professional Philosophy:", professionalPhilosophy);
 
 ---
 
-- 🔭 **Currently Working On:** [Ecommerce Web App](https://github.com/Subash770/Ecom-Project-MicroService.git)
+- 🔭 **Currently Working On:** [ShopNow App](https://shop-now-frontend-one.vercel.app/)
 
 - 🌱 **Currently Learning:** Spring Boot, ReactJS
 
-- 👨‍💻 **All My Projects:** [My-Portfolio-Website](https://my-portfolio-subash-r770.netlify.app/) | **Live Links:** [Prixima](https://tiny-centaur-a8249f.netlify.app/)  [Spinner](https://curious-cajeta-2325a9.netlify.app/)
+- 👨‍💻 **All My Projects:** [My-Portfolio](https://my-portfolio-subash-r770.netlify.app/) | **Live Links:** [Prixima](https://tiny-centaur-a8249f.netlify.app/)  [Spinner](https://curious-cajeta-2325a9.netlify.app/)
 | [Falcon-Figma Prototype](https://www.figma.com/proto/tQGEHeyRP1u259zZlOjvKU/FALCON?node-id=1-2&t=gg1GXzClYp1rqs3t-1&starting-point-node-id=1%3A2)
 - 📝 **Articles & Contributions:** [GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/ssubash2651/contributions/)
   
