@@ -26,13 +26,15 @@ var status = {
 const skills = {
   languages: ["JavaScript", "Java", "Python", "C", "HTML5", "CSS3"],
 
-  frameworks: ["ReactJS", "Spring Boot", "Bootstrap"],
+  frameworks: ["ReactJS", "Spring Boot", "Bootstrap", ],
+
+  testing: ["Postman", "Cucumber", "Selenium", , "RestAssured", "TestNG", "Junit"]
 
   databases: ["MySQL"],
 
   platforms: ["Netlify", "Vercel"],
 
-  tools: ["Git", "Postman", "Docker", "Figma", "Linux"]
+  tools: ["Git",  "Docker", "Figma", "Linux"]
 };
 
 const professionalPhilosophy = {
@@ -119,6 +121,22 @@ console.log("Professional Philosophy:", professionalPhilosophy);
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="Cucumber" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+</a>
+<a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/R/rest-assured-logo-402175582C-seeklogo.com.png" alt="RestAssured" width="40" height="40"/>
+</a>
+<a href="https://testng.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TestNG.png" alt="TestNG" width="40" height="40"/>
+</a>
+<a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
+</a>
+
 </p>
 
 ---
