@@ -122,20 +122,19 @@ console.log("Professional Philosophy:", professionalPhilosophy);
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/cucumber-1.svg" alt="Cucumber" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40" height="40"/>
 </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" height="40"/>
 </a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/R/rest-assured-logo-402175582C-seeklogo.com.png" alt="RestAssured" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" alt="RestAssured" width="40" height="40"/>
 </a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TestNG.png" alt="TestNG" width="40" height="40"/>
-</a>
+
 <a href="https://junit.org/" target="_blank" rel="noreferrer">
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40"/>
 </a>
+
 
 </p>
 
