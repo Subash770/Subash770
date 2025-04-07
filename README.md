@@ -34,7 +34,7 @@ const skills = {
 
   platforms: ["Netlify", "Vercel"],
 
-  tools: ["Git",  "Docker", "Figma", "Linux"]
+  tools: ["Jenkins", "Docker", "Gitlab", "Figma", "Linux"]
 };
 
 const professionalPhilosophy = {
